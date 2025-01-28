@@ -3,47 +3,47 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
-  - Asynchronous and synchronous programming u
-  - Task-based asynchronous pattern u
+  - Asynchronous and synchronous programming: 🖐️ used
+  - Task-based asynchronous pattern: 🖐️ used
   - Garbage collection in .NET
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
-  - Real-time applications with SignalR u
+  - Real-time applications with SignalR: 🖐️ used
 - Modularity and Dependencies
   - .NET assemblies
   - NuGet package management
-  - Dependency management in .NET u
-  - Dependency Injection in .NET u
-  - Inversion of Control (IoC) u
-  - IoC containers in .NET u
-  - Middleware and pipeline configuration u
-  - Modular applications u
+  - Dependency management in .NET: 🖐️ used
+  - Dependency Injection in .NET: 🖐️ used
+  - Inversion of Control (IoC): 🖐️ used
+  - IoC containers in .NET: 🖐️ used
+  - Middleware and pipeline configuration: 🖐️ used
+  - Modular applications: 🖐️ used
 - Environment and Tools
-  - Command line interface (CLI) tools h
-  - .NET CLI h
-  - Windows Services and Linux Daemons h
-  - Hosting and Deployment models h
+  - Command line interface (CLI) tools: 👂 heard
+  - .NET CLI: 👂 heard
+  - Windows Services and Linux Daemons: 👂 heard
+  - Hosting and Deployment models: 👂 heard
   - IIS and Kestrel web server
-  - Environment variables and configuration h
+  - Environment variables and configuration: 👂 heard
   - File system I/O operations
-  - Multithreading with Task Parallel Library (TPL) h
+  - Multithreading with Task Parallel Library (TPL): 👂 heard
   - Performance monitoring and diagnostics
 - APIs and Framework Features
   - LINQ
   - SignalR for real-time web functionality
-  - High-performance RPC with `gRPC` u
+  - High-performance RPC with `gRPC`: 🖐️ used
   - Security features (authentication, authorization)
-  - Cryptography and secure data handling h
-  - Memory and resource management u
+  - Cryptography and secure data handling: 👂 heard
+  - Memory and resource management: 🖐️ used
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support u
-  - WebSockets for real-time communication u
-  - TCP/UDP networking u
-  - SSL/TLS for secure connections u
-  - Efficient network communication with `gRPC` u
-  - HTTP/2 and HTTP/3 support u
-  - Network security (DDoS, XSS, CSRF prevention) h
+  - HTTP/HTTPS support: 🖐️ used
+  - WebSockets for real-time communication: 🖐️ used
+  - TCP/UDP networking: 🖐️ used
+  - SSL/TLS for secure connections: 🖐️ used
+  - Efficient network communication with `gRPC`: 🖐️ used
+  - HTTP/2 and HTTP/3 support: 🖐️ used
+  - Network security (DDoS, XSS, CSRF prevention): 👂 heard
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
@@ -78,10 +78,10 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals u
-  - Advanced C# features (LINQ, async/await, delegates, events) u
-  - Reflection and dynamic programming u
-  - Data types and collections u
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
+  - Reflection and dynamic programming: 🖐️ used
+  - Data types and collections: 🖐️ used
   - Generics and extension methods
   - Attributes and annotations
   - Interoperability with other .NET languages
@@ -103,14 +103,14 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals u
+  - C++ syntax and language fundamentals: 🖐️ used
   - Interoperability between managed (.NET) and unmanaged (native) code
-  - Memory management in mixed environments u
+  - Memory management in mixed environments: 🖐️ used
   - `C++/CLI` syntax and usage
-  - Accessing .NET Framework classes in `C++` u
-  - Writing performance-critical modules h
+  - Accessing .NET Framework classes in `C++`: 🖐️ used
+  - Writing performance-critical modules: 👂 heard
   - Interfacing with native libraries and APIs
-  - Developing custom .NET libraries in `C++` u
+  - Developing custom .NET libraries in `C++`: 🖐️ used
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
   - Working with Windows API
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity u
+  - Unity: 🖐️ used
 - Web development
   - ASP.NET Core
   - Blazor
